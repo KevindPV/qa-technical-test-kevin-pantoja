@@ -1,13 +1,13 @@
-# 🧪 Manual Test Scenarios (Gherkin) – User Registration
+# 🧪 Escenarios de Pruebas Manuales (Gherkin) – Registro de Usuario
 
-This document contains the solution for **Part 1 – Manual Testing (Gherkin)** and includes 10 test scenarios written in Gherkin format:
+Este documento contiene la solución para la **Parte 1 – Pruebas Manuales (Gherkin)** e incluye 10 escenarios de prueba escritos en formato Gherkin:
 
-- 5 Positive scenarios
-- 5 Negative scenarios
+- 5 escenarios positivos
+- 5 escenarios negativos
 
 ---
 
-## ✅ Positive Scenarios (5)
+## ✅ Escenarios positivos (5)
 
 ```gherkin
 
@@ -70,7 +70,7 @@ Feature: User Registration
 ```
 
 
-## ❌ Negative Scenarios (5)
+## ❌ Escenarios negativos (5)
 ```gherkin
 
 Feature: User Registration
