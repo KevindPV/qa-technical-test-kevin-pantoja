@@ -1,10 +1,5 @@
-# qa-technical-test-kevin-pantoja
+# QA Technical Test - Kevin Pantoja
 QA technical test focused on manual testing using Gherkin scenarios, test design, and risk analysis.
-
-
-# 🧪 QA Technical Test
-
-> QA technical assessment focused on manual testing using Gherkin scenarios, test design, and risk analysis.
 
 ---
 
@@ -14,6 +9,7 @@ The purpose of this technical test is to demonstrate my approach as a QA Enginee
 - Manual test design using Gherkin
 - Positive and negative test coverage
 - Bug and risk identification
+- Understanding of API testing, databases, and AI-assisted automation concepts
 
 ---
 
@@ -66,8 +62,20 @@ Test scenarios are written using **Gherkin syntax** to clearly describe system b
 ---
 
 ## 📑 Deliverables
-- Gherkin test scenarios (positive and negative)
-- Identified risks and potential bugs
+
+- **Part 1 – Manual Testing (Gherkin)**
+  - [Gherkin test scenarios (positive and negative)](docs/part-1-manual-testing/gherkin-scenarios.md)
+  - [Identified risks and assumptions](docs/part-1-manual-testing/risks-assumptions.md)
+
+- **Part 2 – API Testing (Postman)**
+  - [API testing scenarios and validations](docs/part-2-api-testing.md)
+
+- **Part 3 – Database Testing (SQL)**
+  - [Database queries and explanation](docs/part-3-data-base-testing.md)
+
+- **Part 4 – AI and Test Automation**
+  - [AI-assisted automation approach and validation strategy](docs/part-4-AI&Automation.md)
+
 
 ---
 
