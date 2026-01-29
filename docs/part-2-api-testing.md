@@ -64,7 +64,7 @@ Request
 
 Status code esperado  
 ```json
-400 Bad Request
+Error 400 – Bad Request: el campo obligatorio `email` es invalido.
 ```
 
 Validaciones sobre el response  
@@ -121,6 +121,6 @@ Buenas prácticas
 
 ---
 
-Conclusión  
+## Conclusión  
 
 Este documento cumple con los requerimientos del ejercicio de API Testing, describiendo un caso exitoso, dos casos fallidos, los códigos de estado esperados, las validaciones sobre el response y una organización clara de los tests en Postman.
