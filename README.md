@@ -19,11 +19,18 @@ The purpose of this technical test is to demonstrate my approach as a QA Enginee
 
 ## 📂 Repository Structure
 
+This repository currently contains the solution for **Part 1 – Manual Testing (Gherkin)** of the technical assessment.
+
 qa-technical-test-kevin-pantoja/
+
 ├─ README.md
+
 ├─ docs/
-│ ├─ gherkin-scenarios.md
+
+│ ├─ gherkin-scenarios.md   # Solution for Part 1 – Manual Testing (Gherkin)
+
 │ └─ risks-assumptions.md
+
 
 
 ---
