@@ -67,8 +67,11 @@ Feature: User Registration
     Then the account should be created successfully
     And the full name should be stored without leading or trailing spaces
 
+```
+
 
 ## ❌ Negative Scenarios (5)
+```gherkin
 
 Feature: User Registration
 
@@ -124,4 +127,6 @@ Feature: User Registration
     And the user clicks "Register"
     Then the account should not be created
     And an error message should be displayed indicating "Password does not meet requirements"
+
+```
 
