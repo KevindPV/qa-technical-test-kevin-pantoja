@@ -64,7 +64,7 @@ Test scenarios are written using **Gherkin syntax** to clearly describe system b
 ## 📑 Deliverables
 
 - **Part 1 – Manual Testing (Gherkin)**
-  - [Gherkin test scenarios (positive and negative)](docs/part-1-manual-testing/gherkin-scenarios.md)
+  - [Gherkin test scenarios (positive and negative)](docs/part-1-manual-testing/part-1-gherkin-scenarios-manual-testing.md)
   - [Identified risks and assumptions](docs/part-1-manual-testing/part-1-risks-assumptions.md)
 
 - **Part 2 – API Testing (Postman)**
