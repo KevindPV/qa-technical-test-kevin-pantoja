@@ -19,18 +19,23 @@ The purpose of this technical test is to demonstrate my approach as a QA Enginee
 
 ## 📂 Repository Structure
 
-This repository currently contains the solution for **Part 1 – Manual Testing (Gherkin)** of the technical assessment.
+This repository contains the complete solution for the technical assessment, organized by parts.
 
 qa-technical-test-kevin-pantoja/
 
+```
+
 ├─ README.md
-
+├─ LICENSE
 ├─ docs/
+│  ├─ part-1-manual-testing/
+│  │  ├─ gherkin-scenarios.md   # Solution for Part 1 – Manual Testing (Gherkin)
+│  │  └─ risks-assumptions.md   # Identified risks and assumptions (Part 1)
+│  ├─ part-2-api-testing.md     # Solution for Part 2 – API Testing (Postman)
+│  ├─ part-3-data-base-testing.md # Solution for Part 3 – Database (SQL)
+│  └─ part-4-AI&Automation.md  # Solution for Part 4 – AI and Test Automation
 
-│ ├─ gherkin-scenarios.md   # Solution for Part 1 – Manual Testing (Gherkin)
-
-│ └─ risks-assumptions.md
-
+```
 
 
 ---
